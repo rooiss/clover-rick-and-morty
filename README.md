@@ -26,3 +26,7 @@
 - I would have setup more tests for every component, primarily my CharactersProvider and the useCharacterLocation hook.
 
 - The styling currently is very objective and lacks visual aesthetics, if more time was given I would have requested a spec so that I could model the app after that.
+
+## test
+
+- im testing something
